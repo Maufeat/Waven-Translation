@@ -8,7 +8,7 @@
   "11477": "Nomadic",
   "85470": "Your characters must move on each turn of the game.\n\nReward : +30% drops from monsters.",
   "11528": "Balanced",
-  "36635": "Tous les héros alliés doivent être en vie à la fin du combat et leurs points de vie doivent être compris en 280 et 320.\n\nReward: +80% drops from monsters.",
+  "36635": "All allied heroes must be alive at the end of the battle and their health points must be between 280 and 320.\n\nReward: +80% drops from monsters.\n(DEBUG TEST)",
   "36602": "Paternalism",
   "39021": "No member of your team should be knocked out during combat.\n\nReward : +50% drops from monsters.",
   "87088": "Duo",
