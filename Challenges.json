@@ -1,50 +1,90 @@
 {
-  "7223": "Friends for Life",
-  "83298": "No allied hero must die.\n\nReward : +25% drops from monsters.",
-  "38670": "Solitary",
-  "12044": "No member of your team may end their turn in a square\\_<sprite name=\"cell_cross\"> adjacent to a friendly character.\n\nReward : +40% drops from monsters.",
+  "7223": "Friends for life",
+  "83298": "No allied hero should die.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
+    "38670": "Solitaire",
+    "12044": "Allies should not end their turn on a square adjacent<sprite name='cell_cross'> to another allied character.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
   "54709": "Ordered",
-  "47408": "The opposing characters must be eliminated in the order indicated by the game.\n\nReward : +60% drops from monsters.",
-  "11477": "Nomadic",
-  "85470": "Your characters must move on each turn of the game.\n\nReward : +30% drops from monsters.",
-  "11528": "Balanced",
-  "36635": "All allied heroes must be alive at the end of the battle and their health points must be between 280 and 320.\n\nReward: +80% drops from monsters.\n(DEBUG TEST)",
+  "47408": "Opposing characters must be eliminated in the order indicated by the game.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
+  "11477": "Nomad",
+  "85470": "No ally should end their turn on the same square as they began their turn.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
   "36602": "Paternalism",
-  "39021": "No member of your team should be knocked out during combat.\n\nReward : +50% drops from monsters.",
+  "39021": "No member of your team should be knocked out during the fight.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
   "87088": "Duo",
-  "50698": "You should never have more than one companion in play (including quest companions).\n\nReward : +30% drops from monsters.",
+  "50698": "Your team should never have more than one companion in play (including quest companions).
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
   "3321": "Especially not him",
-  "90188": "Eliminate the targeted enemy character last.\n\nReward : +25% drops from monsters.",
+  "90188": "Eliminate the targeted opponent character last.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
   "96735": "Priority Target",
-  "25221": "Eliminate the targeted enemy character first.\n\nReward : +15% drops from monsters.",
+  "25221": "Eliminate the targeted opponent character first.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
   "49531": "Priority Target",
-  "27117": "Eliminate the targeted enemy character first.\n\nReward : +15% drops from monsters.",
+  "27117": "Eliminate the targeted opponent character first.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
   "62631": "Priority Target",
-  "39020": "Eliminate the targeted enemy character first.\n\nReward : +15% drops from monsters.",
-  "74112": "With arms",
-  "15441": "The opposing characters must be finished with an attack.\n\nReward : +45% drops from monsters.",
-  "86762": "Without arms",
-  "251": "The opposing characters must not be finished off by an attack.\n\nReward : +30% drops from monsters.",
-  "83091": "With arms ... heroically",
-  "14361": "Opposing characters must be finished off by attacking a hero. \n\nReward : +60% drops from monsters.",
+  "39020": "Eliminate the targeted opponent character first.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
+  "74112": "Martial Discipline",
+  "15441": "Opposing characters must be finished off with physical damage.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
+  "86762": "Magic Discipline",
+  "251": "Opposing characters must be finished off with magic damage.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
+  "83091": "By arms... heroically",
+  "14361": "Opposing characters must be finished off by a hero's attack.
+\n\\---\n
+[NE PEUT PAS FONCTIONNER : CUB-6974
+REUSE]",
   "62413": "Static",
-  "65083": "None of your characters must spend all of their {%PM} on each turn. \n\nReward : +30% drops from monsters.",
-  "58513": "Brothers in arms",
-  "13315": "You must not summon more than one companion during this fight.\n\nReward : +60% drops from monsters.",
-  "38844": "Two birds with one stone",
-  "82829": "The first time you finish off an opponent, you must finish at least a second before the turn end.\n\nReward : +40% drops from monsters.",
-  "13055": "Headhunter",
-  "546": "After dealing damage to an opponent, you must finish them off before damaging another.\n\nReward : +45% drops from monsters.",
+  "65083": "No allied character may spend all of his {%PM} each game turn.
+\n\\---\n
+[NE PEUT PAS FONCTIONNER
+REUSE]",
+  "58513": "Brothers in Arms",
+  "13315": "Your team may not summon more than one companion during this battle.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
+  "13055": "Tracker",
+  "546": "After dealing damage to one opponent, you must finish him off before you can hurt another.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
   "82542": "Squad",
-  "57934": "Your characters must always end their turn in a square\\_<sprite name=\"cell_around\"> around an ally.\n\nReward : +25% drops from monsters.",
+  "57934": "Allies must always end their turn on a square around an allied character or mechanism.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
   "74223": "Unpredictable",
-  "82703": "You must only deal damage to the targeted opponent this round.\n\nReward : +80% drops from monsters.",
-  "37627": "Each his own",
-  "55231": "Each opponent can only suffer one physical attack per turn.\n\nReward : +40% drops from monsters.",
-  "55546": "Share",
-  "33914": "Each player must finish off at least one opponent during the fight.\n\nReward : +40% drops from monsters.",
+  "82703": "Your team should only deal damage to the targeted opponent this turn.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
+  "37627": "Each to his own",
+  "55231": "Each opponent may suffer only one attack per turn.
+
+[NE PEUT PAS FONCTIONNER : CUB-6971
+REUSE]",
+  "55546": "Sharing",
+  "33914": "Each player must finish off at least one opponent during combat.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
   "23421": "Escort",
-  "87926": "The targeted hero must not die.\n\nReward : +15% drops from monsters.",
-  "81490": "Pacifist",
-  "59170": "The targeted player must not finish off an opponent.\n\nReward : +20% drops from monsters."
+  "87926": "Targeted hero must not die.
+\n\\---\n
+{%CHALLENGE_REWARD_TEXT, rwdPct}",
+    "38942": "Reward: +{0}% to combat gains."
 }
