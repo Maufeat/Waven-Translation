@@ -221,7 +221,7 @@
     "87179": "RETALIATION",
     "88402": "Inflicts a percentage of its {%at} on the attacker when the character suffers an attack.",
     "15664": "CONTAGIOUS",
-    "25557": "A contagious character takes damage at the beginning of his turn. He can pass on this state by attacking a character. ##NEED DESIGN: in which case he becomes <b>INSAFE</b> until the start of his next turn.##",
+    "25557": "A contagious character takes damage at the beginning of his turn. He can pass on this state by attacking a character. ##NEED DESIGN: in which fieldhe becomes <b>INSAFE</b> until the start of his next turn.##",
     "16591": "Released when you cast a trap spell. {#AURA[AURAS]} Your trap spells cost 2 AP less.",
     "27514": "SKULL COMBO",
     "5681": "CRAQ-ROC",

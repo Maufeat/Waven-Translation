@@ -496,7 +496,7 @@
     "96077": "Bwork Parle-Lave Pirate",
     "64857": "{#ESPRITEQUIPE}\n --- \n<b>START OF TURN</b>: Throw a {Spell:589} up to 2 squares away.\n --- \n{#ANGRYDRIVE}\\_: Triggers {explosion:ParameterizedEffectExecution.654.ex}.",
     "53040": "Grô Bwork Pirate",
-    "21728": "{#ESPRITEQUIPE}\n --- \n<b>ATTACK</b>\\_: Touch the 2 cases in front of him.\n --- \n{#ANGRYDRIVE}: Wins {power:at,percent} and {value:pm}.",
+    "21728": "{#ESPRITEQUIPE}\n --- \n<b>ATTACK</b>\\_: Touch the 2 fieldsin front of him.\n --- \n{#ANGRYDRIVE}: Wins {power:at,percent} and {value:pm}.",
     "10717": "Bworkakorn Pirate",
     "80622": "{#ESPRITEQUIPE}\n --- \n<b>START OF THE TURN</b>: Gains {value:ar}\\_{%AR} to <b>Bworks</b> allies around<sprite name=\"cell_around\">.\n --- \n{#ANGRYDRIVE}\\_: Gains {power:at,percent} to <b>Bworks</b> allies around_<sprite name=\"cell_around\">.",
     "65410": "Larbin Volcano'cult",
