@@ -4,7 +4,7 @@
 \n\\---\n
 {%CHALLENGE_REWARD_TEXT, rwdPct}",
     "38670": "Solitaire",
-    "12044": "Allies should not end their turn on a square adjacent<sprite name='cell_cross'> to another allied character.
+    "12044": "Allies should not end their turn on a square adjacent<sprite name=\"cell_cross\"> to another allied character.
 \n\\---\n
 {%CHALLENGE_REWARD_TEXT, rwdPct}",
   "54709": "Ordered",
