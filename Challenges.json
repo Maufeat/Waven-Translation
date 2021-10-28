@@ -53,7 +53,7 @@
 [NE PEUT PAS FONCTIONNER : CUB-6974
 REUSE]",
   "62413": "Static",
-  "65083": "No allied character may spend all of his {%PM} each game turn.
+  "65083": "No allied character may spend all of his [{%PM}]  <b>Movement</b> each game turn.
 \n\\---\n
 [NE PEUT PAS FONCTIONNER
 REUSE]",

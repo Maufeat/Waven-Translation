@@ -1712,7 +1712,7 @@
     "18432":  "",
     "30314":  "Ecafripon Pirate",
     "72354":  "",
-    "13541": "Your hero wins {value:pm} {%PM}.
+    "13541": "Your hero wins {value:pm} [{%PM}]  <b>Movement</b>.
 \n\\---\n
   Gains {addReserve:pa} when you play a spell.
 \n\\---\n
@@ -1723,31 +1723,31 @@ Cannot gain any additional <b>AURA</b>.
 \n\\---\n
 They'll disappear if they don't have the time to do it.
 Disappears if he has no more <b>AURA</b>.",
-    "81038":  "G {value:pm}\\_{%PM} and {#PHASE} on your hero.
+    "81038":  "G {value:pm}\\_[{%PM}]  <b>Movement</b> and {#PHASE} on your hero.
 \n\\---\n
 The transformation ends if he has no more <b>AURA</b>.",
-    "59387":"<b>START OF TURN:</b> Gain {value:pm}\\_{%pm} by {%pa} in {%reserve} for the turn.
+    "59387":"<b>START OF TURN:</b> Gain {value:pm}\\_[{%PM}]  <b>Movement</b> by [{%PA}]<b> Mana </b> in reserve <sprite name=\"reserve\"> for the turn.
 \n\\---\n
-<b>ATTACK\\_:</b> Inflicts {value:per,percent} of its {%PV}MAX on the target of your hero.
+<b>ATTACK\\_:</b> Inflicts {value:per,percent} of its [{%PV}]<b> Health </b> MAX on the target of your hero.
 \n\\---\n
-The transformation ends at your heros next {%AR} heal or gain.",
-     "93073": "Gains {power:Spell.601.at,percent} and {value:Spell.601.pm}\\_{%pm}.
+The transformation ends at your heros next [{%ar}]  Armour  heal or gain.",
+     "93073": "Gains {value:Spell.601.at,percent} <color=#dba016><b>Physical Attack</b></color> and {value:Spell.601.pm}\\_[{%PM}]  <b>Movement</b>.
 \n\\---\n
-The transformation ends when {Companion:261} has no more {%AR}.",
+The transformation ends when {Companion:261} has no more [{%ar}]  Armour .",
     "70213":  "Tofu",
     "81652":  "",
-    "82068":  "{#PHASE}, +2\\_{%pm} and {#DISARMED[DÉSARMÉ]}.",
+    "82068":  "{#PHASE}, +2\\_[{%PM}]  <b>Movement</b> and {#DISARMED[DÉSARMÉ]}.",
     "35967":  "Momie",
     "18743":  "",
     "70500":  "",
-    "23409":  "Gain {value:pm}\\_{%PM}
+    "23409":  "Gain {value:pm}\\_[{%PM}]  <b>Movement</b>
 \n\\---\n
 <b>ATTACK:</b> applies {%FRACTURED}.
 \n\\---\n
-The cost of <b>DRACONIC</b> spells is reduced by {value:reduc,abs} {%PA}.
+The cost of <b>DRACONIC</b> spells is reduced by {value:reduc,abs} [{%PA}]<b> Mana </b>.
 \n\\---\n
 <align='right'><i><color=#A0A0A0><size=80%>Draconic Spell</color></i></align>",
-    "79877":  "Gains {value:pm}\\_{%PM}
+    "79877":  "Gains {value:pm}\\_[{%PM}]  <b>Movement</b>
 \n\\---\n
 <b>ATTACK :</b> applies {%FRACTURED}.",
     "66952":  "Dark Manti",
