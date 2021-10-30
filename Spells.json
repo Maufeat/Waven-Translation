@@ -2841,7 +2841,7 @@
     "45744": "Leaping Surin",
     "20153": "Inflicts <color=#9f3bb8> {value:base}  Magical Damage </color> + <color=#9f3bb8> {value:bonus}  Magical Damage </color> per <b>AURA</b> your hero possesses.\n --- \nTriggers {bounce:ParameterizedEffectExecution.782.bc} if the target is <b>VENTED</b><sprite name=\"ventilated\">.",
     "83824": "Shugen Strike",
-    "45268": "Deals damage equal to your hero's AT to adjacent opponents</b><sprite name=\"cell_cross\"> as many times as there are <b>TEAMS</b> in your hand.",
+    "45268": "Deals damage equal to your hero's AT to adjacent opponents</b><sprite name=\"cell_cross\"> as many times as there are <b>TRAPS</b> in your hand.",
     "24488": "debit",
     "46074": "Inflicts <color=#9f3bb8> {value:dmg}  Magical Damage </color>.\n --- \nReduces the cost of this spell by {value:pa,abs}  \\_[{%PA}]<b> Mana </b> per <b>PIECE</b> in your hand.",
     "99294": "Explosive Tracking",
