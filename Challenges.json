@@ -4,7 +4,7 @@
 \n\\---\n
 {%CHALLENGE_REWARD_TEXT, rwdPct}",
     "38670": "Solitaire",
-    "12044": "Allies should not end their turn on a square adjacent<sprite name=\"cell_cross\"> to another allied character.
+    "12044": "Allies should not end their turn on a square adjacent<sprite name='cell_cross'> to another allied character.
 \n\\---\n
 {%CHALLENGE_REWARD_TEXT, rwdPct}",
   "54709": "Ordered",
@@ -12,7 +12,7 @@
 \n\\---\n
 {%CHALLENGE_REWARD_TEXT, rwdPct}",
   "11477": "Nomad",
-  "85470": "No ally should end their turn on the same square as they began their turn.
+  "85470": "All allies must end their turn by having made a movement of at least 1 space 
 \n\\---\n
 {%CHALLENGE_REWARD_TEXT, rwdPct}",
   "36602": "Paternalism",
@@ -53,7 +53,7 @@
 [NE PEUT PAS FONCTIONNER : CUB-6974
 REUSE]",
   "62413": "Static",
-  "65083": "No allied character may spend all of his [{%PM}]  <b>Movement</b> each game turn.
+  "65083": "No allied character may spend all of his {%PM} each game turn.
 \n\\---\n
 [NE PEUT PAS FONCTIONNER
 REUSE]",

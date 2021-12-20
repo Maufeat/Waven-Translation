@@ -189,7 +189,7 @@
     "50723": "Inventory",
     "91783": "Rings",
     "3022": "Gems",
-    "48777": "<b>Movement</b> Points",
+    "48777": "Movement Points",
     "6380": "Inventory",
     "36716": "Level Up!",
     "77442": "You gain {0} skill points",
@@ -282,7 +282,7 @@
     "99057": "Wave Achieved",
     "56723": "This action will convert all your extra copies to <b>{0} {1}</b>.",
     "74789": "Your shushu defended your island while you were away from the {0} attack!",
-    "66680": "The {0} season has ended. Final ranking: {1}.",
+    "66680": "The season has ended. Final ranking: {1}.",
     "92271": "JOIN NEW SEASON",
     "24310": "Completed.",
     "82173": "Start over",
@@ -290,5 +290,8 @@
     "33474": "Havre-Île of {0}",
     "49066": "Test your defense",
     "38488": "Season over!",
-    "51962": "You have achieved {1, plural, one[win] other[wins]} in the {0} season."
+    "51962": "You reached {1, plural, one [#win] other [#wins]} in your last season.",
+    "71844": "View your PVP combat stats",
+    "30761": "Improvable",
+    "73088": "new"
 }
