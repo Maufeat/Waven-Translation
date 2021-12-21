@@ -1,5 +1,9 @@
 Welcome to Waven-Translation project! This is a project made by Maufeat to offer an english patch so that non-french speakers can enjoy the game aswell.
 
+# Information
+
+1. Before installing the patch. Check if the Version number ingame matches the patch number, if it doesnt, the patch will cause your game to break and you have to repair your client/replace the patched DLL with the original. 
+
 # Installing
 
 1. Download the latest version of Waven-Translatin from [this link](https://github.com/Maufeat/Waven-Translation/releases/)
